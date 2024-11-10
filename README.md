@@ -31,5 +31,3 @@ The circuit is simple:
 2. Get your **Bot Token** from BotFather.
 3. Find your **Chat ID** by messaging your bot and using the [Telegram API](https://api.telegram.org/bot<YourBotToken>/getUpdates) to retrieve it.
 4. Replace `YOUR_BOT_TOKEN` and `YOUR_CHAT_ID` in the code with your actual bot token and chat ID.
-
-## Code
